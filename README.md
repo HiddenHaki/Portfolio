@@ -1,5 +1,5 @@
 # Hero Section Portfolio: 
-![My Portfolio: https://portfolio-two-peach-17.vercel.app/](HeroSec.png) 
+[![My Portfolio](HeroSec.png)](https://portfolio-two-peach-17.vercel.app/)
 
 
 
